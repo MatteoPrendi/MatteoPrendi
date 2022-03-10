@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MatteoPrendi
+- 👀 I’m interested in AIs & machine learning and web development
+- 🌱 I’m currently learning python & javascript
